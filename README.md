@@ -29,7 +29,7 @@
 
 ## 📸 App Screenshot
 
-![Uploading Amazon.gif…]()
+[Uploading Amazon.gif…]()
 
 
 ---
