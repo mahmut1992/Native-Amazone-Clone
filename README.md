@@ -29,9 +29,8 @@
 
 ## 📸 App Screenshot
 
+https://share.zight.com/NQumKk56
 
-
-![Uploading Zight Recording 2025-04-26 at 02.13.17 PM.gif…]()
 
 
 ---
