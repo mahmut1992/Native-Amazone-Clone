@@ -29,7 +29,7 @@
 
 ## 📸 App Screenshot
 
-https://share.zight.com/NQumKk56
+![Zight Recording 2025-04-26 at 02 13 17 PM](https://github.com/user-attachments/assets/b6686497-b0f1-47d3-8e61-30213bd6b87b)
 
 
 
